@@ -207,9 +207,3 @@ Interpretation: The model retrieves 80% of actual readmissions and is correct ~7
 * With limited hardware, the hospital may prefer **lightweight models** (e.g., Logistic Regression or LightGBM) that run efficiently on-premise instead of GPU-heavy architectures.
 
 ---
-
-## **Conclusion**
-
-This structured framework covers the **complete AI lifecycle** — from problem definition and data strategy to ethical reflection and deployment. The hospital readmission case demonstrates how technical, ethical, and operational aspects intertwine in real-world AI for healthcare.
-
----
